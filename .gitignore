@@ -1,0 +1,23 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb~
+
+# Conda / virtualenv
+.env/
+.venv/
+*.env
+*.conda
+*.egg-info/
+
+# OS junk
+.DS_Store
+
+# Data files (add your large files here!)
+*.gz
+*.csv
+*.tsv
+*.maf
+
+.docx
